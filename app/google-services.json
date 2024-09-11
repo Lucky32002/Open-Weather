@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5969806227",
+    "project_id": "openweather-e4159",
+    "storage_bucket": "openweather-e4159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5969806227:android:0bd99c0243e516bda89e66",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.d3896530"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACqBLHQ93becd4Py8XhZX2u7HulMBtgwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
